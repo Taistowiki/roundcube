@@ -1,4 +1,4 @@
 # roundcube
-Rouncuben valmis konffit
+Rouncuben esimerkki konfiguraatio
 
-Tässä reporcityssä valmis konfigurointi rouncubeseen.
+Selityksen konfiguraatioon: https://www.taisto.org/Roundcube
